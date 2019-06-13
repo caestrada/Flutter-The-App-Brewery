@@ -9,5 +9,4 @@
 | 4. | [Magit 8 Ball Project](./magic-8-ball-flutter) | [magic-8-ball-flutter](./magic-8-ball-flutter) | 05/16/19 | Building a Magic 8 Ball (Magit 8 Ball Project)
 | 5. | [Xylophone](./xylophone-flutter) | [xylophone-flutter](./xylophone-flutter) | 05/16/19 | Xylophone app (Xylophone Project)
 | 6. | [Quiz Project](./quizzler-flutter) | [quizzler-flutter](./quizzler-flutter) | 05/19/19 | Quiz app (Quiz Project)
-
 | 7. | [Destini Challenge](./destini-challenge) | [destini-challenge](./destini-challenge) | 06/13/19 | Destini app (Destini Challenge)
